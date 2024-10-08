@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("HelloWord")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Tutorial2_4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+915efaa8806743a063c9e5f65992ac377fb0d70d")]
-[assembly: System.Reflection.AssemblyProductAttribute("HelloWord")]
-[assembly: System.Reflection.AssemblyTitleAttribute("HelloWord")]
+[assembly: System.Reflection.AssemblyProductAttribute("Tutorial2_4")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Tutorial2_4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
