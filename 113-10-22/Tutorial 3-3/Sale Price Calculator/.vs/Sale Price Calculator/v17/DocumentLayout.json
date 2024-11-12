@@ -22,12 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -38,8 +34,7 @@
               "RelativeToolTip": "Sale Price Calculator\\Form1.Designer.cs",
               "ViewState": "AgIAAE0AAAAAAAAAAAAAwG0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T08:13:52.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T08:13:52.865Z"
             },
             {
               "$type": "Document",
@@ -49,7 +44,7 @@
               "RelativeDocumentMoniker": "Sale Price Calculator\\Form1.cs",
               "ToolTip": "C:\\Users\\shu\\Documents\\GitHub\\113_1_C_Sharp\\113-10-22\\Tutorial 3-3\\Sale Price Calculator\\Sale Price Calculator\\Form1.cs",
               "RelativeToolTip": "Sale Price Calculator\\Form1.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAxwCYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T08:00:05.799Z",
               "EditorCaption": ""
@@ -63,8 +58,7 @@
               "ToolTip": "C:\\Users\\shu\\Documents\\GitHub\\113_1_C_Sharp\\113-10-22\\Tutorial 3-3\\Sale Price Calculator\\Sale Price Calculator\\Form1.cs [\u8A2D\u8A08]",
               "RelativeToolTip": "Sale Price Calculator\\Form1.cs [\u8A2D\u8A08]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T07:59:58.94Z",
-              "EditorCaption": " [\u8A2D\u8A08]"
+              "WhenOpened": "2024-10-22T07:59:58.94Z"
             }
           ]
         }

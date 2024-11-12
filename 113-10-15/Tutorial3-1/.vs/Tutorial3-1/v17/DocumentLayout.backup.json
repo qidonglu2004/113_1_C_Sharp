@@ -18,8 +18,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
@@ -30,9 +38,9 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\shu\\Documents\\GitHub\\113_1_C_Sharp\\113-10-15\\Tutorial3-1\\Tutorial3-1\\Form1.cs",
               "RelativeDocumentMoniker": "Tutorial3-1\\Form1.cs",
-              "ToolTip": "C:\\Users\\shu\\Documents\\GitHub\\113_1_C_Sharp\\113-10-15\\Tutorial3-1\\Tutorial3-1\\Form1.cs*",
-              "RelativeToolTip": "Tutorial3-1\\Form1.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\shu\\Documents\\GitHub\\113_1_C_Sharp\\113-10-15\\Tutorial3-1\\Tutorial3-1\\Form1.cs",
+              "RelativeToolTip": "Tutorial3-1\\Form1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T08:11:22.606Z",
               "EditorCaption": ""
@@ -43,8 +51,8 @@
               "Title": "Form1.cs [\u8A2D\u8A08]",
               "DocumentMoniker": "C:\\Users\\shu\\Documents\\GitHub\\113_1_C_Sharp\\113-10-15\\Tutorial3-1\\Tutorial3-1\\Form1.cs",
               "RelativeDocumentMoniker": "Tutorial3-1\\Form1.cs",
-              "ToolTip": "C:\\Users\\shu\\Documents\\GitHub\\113_1_C_Sharp\\113-10-15\\Tutorial3-1\\Tutorial3-1\\Form1.cs [\u8A2D\u8A08]*",
-              "RelativeToolTip": "Tutorial3-1\\Form1.cs [\u8A2D\u8A08]*",
+              "ToolTip": "C:\\Users\\shu\\Documents\\GitHub\\113_1_C_Sharp\\113-10-15\\Tutorial3-1\\Tutorial3-1\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Tutorial3-1\\Form1.cs [\u8A2D\u8A08]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T08:11:03.175Z",
               "EditorCaption": " [\u8A2D\u8A08]"

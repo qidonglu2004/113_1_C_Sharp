@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shu\\Documents\\GitHub\\113_1_C_Sharp\\midterm\\Q2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1574E9C7-163E-422C-A442-F61E53796D13}|Q2\\Q2.csproj|c:\\users\\shu\\documents\\github\\113_1_c_sharp\\midterm\\q2\\q2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1574E9C7-163E-422C-A442-F61E53796D13}|Q2\\Q2.csproj|solutionrelative:q2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1574E9C7-163E-422C-A442-F61E53796D13}|Q2\\Q2.csproj|c:\\users\\shu\\documents\\github\\113_1_c_sharp\\midterm\\q2\\q2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1574E9C7-163E-422C-A442-F61E53796D13}|Q2\\Q2.csproj|solutionrelative:q2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1574E9C7-163E-422C-A442-F61E53796D13}|Q2\\Q2.csproj|c:\\users\\shu\\documents\\github\\113_1_c_sharp\\midterm\\q2\\q2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1574E9C7-163E-422C-A442-F61E53796D13}|Q2\\Q2.csproj|solutionrelative:q2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1574E9C7-163E-422C-A442-F61E53796D13}|Q2\\Q2.csproj|c:\\users\\shu\\documents\\github\\113_1_c_sharp\\midterm\\q2\\q2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1574E9C7-163E-422C-A442-F61E53796D13}|Q2\\Q2.csproj|solutionrelative:q2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\shu\\Documents\\GitHub\\113_1_C_Sharp\\midterm\\Q2\\Q2\\Form1.cs",
+              "RelativeDocumentMoniker": "Q2\\Form1.cs",
+              "ToolTip": "C:\\Users\\shu\\Documents\\GitHub\\113_1_C_Sharp\\midterm\\Q2\\Q2\\Form1.cs",
+              "RelativeToolTip": "Q2\\Form1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvykAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:51:31.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\shu\\Documents\\GitHub\\113_1_C_Sharp\\midterm\\Q2\\Q2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Q2\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\shu\\Documents\\GitHub\\113_1_C_Sharp\\midterm\\Q2\\Q2\\Form1.Designer.cs",
+              "RelativeToolTip": "Q2\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:48:44.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shu\\Documents\\GitHub\\113_1_C_Sharp\\midterm\\Q2\\Q2\\Program.cs",
+              "RelativeDocumentMoniker": "Q2\\Program.cs",
+              "ToolTip": "C:\\Users\\shu\\Documents\\GitHub\\113_1_C_Sharp\\midterm\\Q2\\Q2\\Program.cs",
+              "RelativeToolTip": "Q2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:48:42.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\shu\\Documents\\GitHub\\113_1_C_Sharp\\midterm\\Q2\\Q2\\Form1.cs",
+              "RelativeDocumentMoniker": "Q2\\Form1.cs",
+              "ToolTip": "C:\\Users\\shu\\Documents\\GitHub\\113_1_C_Sharp\\midterm\\Q2\\Q2\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Q2\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:34:43.751Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

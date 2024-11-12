@@ -18,8 +18,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
@@ -32,7 +40,7 @@
               "RelativeDocumentMoniker": "Fuel Economy with TryParse\\Form1.cs",
               "ToolTip": "C:\\Users\\shu\\Documents\\GitHub\\113_1_C_Sharp\\113-10-29\\Tutorial 4-4\\Fuel Economy with TryParse\\Form1.cs",
               "RelativeToolTip": "Fuel Economy with TryParse\\Form1.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAwwCIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T05:51:52.837Z",
               "EditorCaption": ""
@@ -46,8 +54,7 @@
               "ToolTip": "C:\\Users\\shu\\Documents\\GitHub\\113_1_C_Sharp\\113-10-29\\Tutorial 4-4\\Fuel Economy with TryParse\\Form1.cs [\u8A2D\u8A08]",
               "RelativeToolTip": "Fuel Economy with TryParse\\Form1.cs [\u8A2D\u8A08]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T05:51:43.281Z",
-              "EditorCaption": " [\u8A2D\u8A08]"
+              "WhenOpened": "2024-10-29T05:51:43.281Z"
             }
           ]
         }
