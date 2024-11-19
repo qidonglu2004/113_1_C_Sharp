@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shu\\Documents\\GitHub\\113_1_C_Sharp\\113-11-19\\Listbox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF91E12-FF25-4A08-89E4-774F6F447B04}|Listbox\\Listbox.csproj|c:\\users\\shu\\documents\\github\\113_1_c_sharp\\113-11-19\\listbox\\listbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4EF91E12-FF25-4A08-89E4-774F6F447B04}|Listbox\\Listbox.csproj|solutionrelative:listbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\shu\\Documents\\GitHub\\113_1_C_Sharp\\113-11-19\\Listbox\\Listbox\\Form1.cs",
+              "RelativeDocumentMoniker": "Listbox\\Form1.cs",
+              "ToolTip": "C:\\Users\\shu\\Documents\\GitHub\\113_1_C_Sharp\\113-11-19\\Listbox\\Listbox\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Listbox\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:38:31.844Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
